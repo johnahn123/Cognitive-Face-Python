@@ -40,7 +40,7 @@ print result
 
 ## Sample
 
-A Python SDK sample built with wxPython is also provided, before execution,
+A Python SDK sample built with wxPython is also provided. Before execution,
 please install all components listed below.
 
 ### Sample Prerequisite
